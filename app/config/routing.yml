@@ -1,0 +1,5 @@
+acme_blog:
+    resource: "@AcmeBlogBundle/Resources/config/routes.yml"
+    type:     rest
+    prefix:   /api
+
